@@ -7,7 +7,9 @@ Sou Mestre em Ciência da Computação apaixonado por programação. Desenvolved
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mairesweb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mairesweb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<br>
+<img align="right" alt="MAW-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/3441071?v=4&width=676&height=676">
+<div>
   <img align="center" alt="MAW-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MAW-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MAW-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +27,6 @@ Sou Mestre em Ciência da Computação apaixonado por programação. Desenvolved
   <img align="center" alt="MAW-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="MAW-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MAW-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="right" alt="MAW-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/3441071?v=4&width=676&height=676">
 </div>
 
 ##
