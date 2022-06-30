@@ -32,9 +32,9 @@ Sou Mestre em Ciência da Computação apaixonado por programação. Desenvolved
 ##
 
 <div>
-  <a href="https://instagram.com/soumarceloaires" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:mairesweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/soumarceloaires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://gitlab.com/mairesweb" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  <a href="http://lattes.cnpq.br/8164377064859923" target="_blank"><img src="https://img.shields.io/badge/Lattes-75AADB?style=for-the-badge"></a>
+  <a href="https://instagram.com/soumarceloaires" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mairesweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/soumarceloaires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/mairesweb" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/8164377064859923" target="_blank"><img src="https://img.shields.io/badge/Lattes-75AADB?style=for-the-badge" target="_blank"></a>
 </div>
